@@ -46,7 +46,7 @@
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/aryan-sinha-123456789/
+- 🔗 LinkedIn: https://www.linkedin.com/in/aryan-sinha-dev
 - 💻 GitHub: https://github.com/Aryansinha3777
 
 ---
