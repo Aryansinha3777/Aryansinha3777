@@ -26,7 +26,7 @@
 
 ### 🧠 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
 ### 🛠️ Tools
@@ -38,35 +38,17 @@
 
 ## 📌 Current Focus
 
-- Building real-world MERN projects  
-- Writing clean and maintainable backend APIs  
+- Building MERN stack projects  
+- Writing clean backend APIs  
 - Improving problem-solving skills  
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aryan-sinha-123456789/
-)
-- 💻 [GitHub](https://github.com/Aryansinha3777)
-
+- 🔗 LinkedIn: https://www.linkedin.com/in/aryan-sinha-123456789/
+- 💻 GitHub: https://github.com/Aryansinha3777
 
 ---
 
-⭐ Always learning. Always building.
-
-
-<!--
-**Aryansinha3777/Aryansinha3777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Always learning and building.
