@@ -36,8 +36,8 @@
 
 #### 🔹 [Smart Freelancer Allocation System](https://github.com/Aryansinha3777/smart-freelancer-allocation-system)
 A system that intelligently matches freelancers to projects based on skills, availability, and workload — built to remove the manual guesswork from freelance task assignment.
-**Stack:** React, Node.js, Express, MongoDB/PostgreSQL
+**Stack:** React, Node.js, Express, MongoDB.
 
 #### 🔹 [API Test Engine](https://github.com/Aryansinha3777/api-test-engine)
 A tool for automating API testing — define test cases, run them against endpoints, and validate responses without writing repetitive test scripts by hand.
-**Stack:** Node.js, TypeScript, Express
+**Stack:** Node.js, Javascript, Express
