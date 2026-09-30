@@ -77,7 +77,7 @@ contact: sinhaaryan159@gmail.com
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"><br><br>
       <a href="https://github.com/Aryansinha3777/smart-freelancer-allocation-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryansinha3777&repo=smart-freelancer-allocation-system&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryansinha3777&repo=smart-freelancer-allocator&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
