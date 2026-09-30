@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
   </a>
  <p align="center">
- ![](https://komarev.com/ghpvc/?username=Aryansinha3777)
+ ![](https://komarev.com/ghpvc/?username=Aryansinha3777&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
 </p>
 </p>
 
