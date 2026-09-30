@@ -19,9 +19,9 @@
   <a href="https://github.com/Aryansinha3777">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
   </a>
- <p align="center">
- ![](https://komarev.com/ghpvc/?username=Aryansinha3777&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-</p>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS">
+  </a>
 </p>
 
 
