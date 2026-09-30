@@ -1,17 +1,27 @@
-<!-- Animated gradient banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Hi%20There,%20I'm%20Aryan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Final-Year%20CS%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-</p>
+<!-- Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-Year+CS+Student+%7C+2027;Full+Stack+Developer+%7C+MERN;Open+to+SDE+Roles+%26+Internships;Solving+Real+Problems%2C+Not+Just+CRUD" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hi%20There,%20I'm%20Aryan%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Final-Year%20CS%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17&descColor=CBD5E1" width="100%"/>
 </p>
 
+<!-- Typing intro -->
+
 <p align="center">
-  <a href="mailto:sinhaaryan159@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/Aryansinha3777"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&lines=Final-Year+CS+Student+%7C+2027;Full+Stack+Developer+%7C+MERN;Open+to+SDE+Roles+%26+Internships;Solving+Real+Problems" alt="Typing SVG" />
 </p>
+
+<!-- Links -->
+
+<p align="center">
+  <a href="mailto:sinhaaryan159@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827" />
+  </a>
+  <a href="https://github.com/Aryansinha3777">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white">
@@ -22,7 +32,7 @@
 ## 🎓 About Me
 
 ```yaml
-name: Aryan
+name: Aryan Sinha
 role: Final-Year CS Student (Class of 2027)
 focus: Full Stack Web Development
 looking_for: SDE Roles & SDE Internships
