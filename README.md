@@ -20,13 +20,6 @@
   <a href="https://github.com/Aryansinha3777">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
