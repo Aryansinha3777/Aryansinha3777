@@ -19,7 +19,7 @@
   <a href="https://github.com/Aryansinha3777">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111827" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+ <img src="https://komarev.com/ghpvc/?username=Aryansinha3777&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 </p>
 
 
