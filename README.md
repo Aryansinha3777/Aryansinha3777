@@ -33,7 +33,7 @@ focus: Full Stack Web Development
 looking_for: SDE Roles & SDE Internships
 currently_building: Smart Freelancer Allocation System, API Test Engine
 strengthening: Data Structures & Algorithms in C++
-philosophy: "Build systems that solve real coordination or testing problems — not just CRUD apps"
+philosophy: "Build systems that solve real coordination or testing problems"
 contact: sinhaaryan159@gmail.com
 ```
 
