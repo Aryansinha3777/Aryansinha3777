@@ -27,14 +27,14 @@
 ## 🎓 About Me
 
 ```yaml
-name: Aryan Sinha
-role: Final-Year CS Student (Class of 2027)
-focus: Full Stack Web Development
-looking_for: SDE Roles & SDE Internships
-currently_building: Smart Freelancer Allocation System, API Test Engine
-strengthening: Data Structures & Algorithms in C++
-philosophy: "Build systems that solve real coordination or testing problems"
-contact: sinhaaryan159@gmail.com
+Name: Aryan Sinha
+Role: Final-Year CS Student
+Focus: Full Stack Web Development
+Looking_for: SDE Roles & SDE Internships
+Currently_building: Smart Freelancer Allocation System, API Test Engine
+Strengthening: Data Structures & Algorithms in C++
+Philosophy: "Build systems that solve real coordination or testing problems"
+Contact: sinhaaryan159@gmail.com
 ```
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
