@@ -86,7 +86,7 @@ Contact: sinhaaryan159@gmail.com
     </td>
     <td width="50%" valign="top">
       <h3>🔹 API Test Engine</h3>
-      <p>An automation tool for API testing — define test cases, run them against live endpoints, and validate responses without hand-writing repetitive test scripts.</p>
+      <p>An interactive API testing platform that enables developers to send HTTP requests, inspect responses, and validate endpoints — simplifying API debugging and testing with a streamlined, user-friendly interface.</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
